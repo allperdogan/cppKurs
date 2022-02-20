@@ -6,8 +6,8 @@ using namespace std;
 int main()
 {
     int sayi;
-    cout << "Alper Dogan" << endl;
-    cout << "170504013" << endl;
+    cout << "Tugba" << endl;
+    cout << "170501028" << endl;
     printf("Stdio kutuphanesinde bunu kullanabiliriz C de ki gibi\n");
     scanf("%d", &sayi);
     printf("Sayi: %d",sayi);
