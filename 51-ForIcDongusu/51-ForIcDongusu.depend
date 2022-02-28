@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644651773 source:c:\users\noc1\documents\cpp_kurs\51-foricdongusu\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
