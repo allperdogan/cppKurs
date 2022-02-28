@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644651344 source:c:\users\noc1\documents\cpp_kurs\50-randomsayi\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
