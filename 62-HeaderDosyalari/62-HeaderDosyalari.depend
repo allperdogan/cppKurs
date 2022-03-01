@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1644955651 source:c:\users\noc1\documents\cpp_kurs\62-headerdosyalari\hayvan.cpp
+	"Hayvan.h"
+
+1644955847 c:\users\noc1\documents\cpp_kurs\62-headerdosyalari\hayvan.h
+	<iostream>
+
+1644955782 source:c:\users\noc1\documents\cpp_kurs\62-headerdosyalari\main.cpp
+	<iostream>
+	"Hayvan.h"
+
